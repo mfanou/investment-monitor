@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "name": "Morningstar",
+      "enabled": true,
+      "type": "google_news_rss",
+      "url": "https://news.google.com/rss/search?q=site%3Amorningstar.com&hl=en-US&gl=US&ceid=US:en",
+      "interval_minutes": 15,
+      "max_articles_per_check": 20
+    }
+  ]
+}
